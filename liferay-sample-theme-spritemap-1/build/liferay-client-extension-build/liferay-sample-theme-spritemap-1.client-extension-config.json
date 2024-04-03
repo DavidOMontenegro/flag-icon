@@ -1,0 +1,17 @@
+{
+  "com.liferay.client.extension.type.configuration.CETConfiguration~liferay-sample-theme-spritemap-1" : {
+    ":configurator:policy" : "force",
+    "baseURL" : "${portalURL}/o/liferay-sample-theme-spritemap-1",
+    "buildTimestamp" : 1712079486471,
+    "description" : "",
+    "dxp.lxc.liferay.com.virtualInstanceId" : "default",
+    "name" : "Liferay Sample Theme Spritemap 1",
+    "projectId" : "liferaysamplethemespritemap1",
+    "projectName" : "liferay-sample-theme-spritemap-1",
+    "properties" : [ ],
+    "sourceCodeURL" : "",
+    "type" : "themeSpritemap",
+    "typeSettings" : [ "url=spritemap.22cb957bc4c322ae2f315e62387dca0db29b0764.svg" ],
+    "webContextPath" : "/liferay-sample-theme-spritemap-1"
+  }
+}
